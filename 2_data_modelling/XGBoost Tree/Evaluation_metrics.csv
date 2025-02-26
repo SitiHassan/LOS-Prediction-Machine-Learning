@@ -1,0 +1,61 @@
+,Metric,Value,Model,Algorithm
+0,ROC-AUC,0.73,Model 1,DT
+1,Accuracy,0.82,Model 1,DT
+2,Precision,0.95,Model 1,DT
+3,Recall,0.86,Model 1,DT
+4,F1 Score,0.9,Model 1,DT
+6,Accuracy,0.93,Model 2,DT
+7,ROC-AUC,0.77,Model 2,DT
+8,F1 Score,0.96,Model 2,DT
+9,Precision,0.94,Model 2,DT
+10,Recall,0.99,Model 2,DT
+11,Accuracy,0.66,Model 3,DT
+12,ROC-AUC,0.76,Model 3,DT
+13,F1 Score,0.79,Model 3,DT
+14,Precision,0.98,Model 3,DT
+15,Recall,0.66,Model 3,DT
+16,ROC-AUC,0.77,Model 4,DT
+17,Accuracy,0.93,Model 4,DT
+18,Precision,0.94,Model 4,DT
+19,Recall,0.99,Model 4,DT
+20,F1 Score,0.96,Model 4,DT
+22,Accuracy,0.73,Model 1,RandomForest
+23,ROC-AUC,0.71,Model 1,RandomForest
+24,F1 Score,0.84,Model 1,RandomForest
+25,Precision,0.96,Model 1,RandomForest
+26,Recall,0.75,Model 1,RandomForest
+27,Accuracy,0.94,Model 2,RandomForest
+28,ROC-AUC,0.72,Model 2,RandomForest
+29,F1 Score,0.97,Model 2,RandomForest
+30,Precision,0.94,Model 2,RandomForest
+31,Recall,1.0,Model 2,RandomForest
+32,Accuracy,0.88,Model 3,RandomForest
+33,ROC-AUC,0.73,Model 3,RandomForest
+34,F1 Score,0.94,Model 3,RandomForest
+35,Precision,0.95,Model 3,RandomForest
+36,Recall,0.93,Model 3,RandomForest
+37,Accuracy,0.94,Model 4,RandomForest
+38,ROC-AUC,0.72,Model 4,RandomForest
+39,F1 Score,0.97,Model 4,RandomForest
+40,Precision,0.94,Model 4,RandomForest
+41,Recall,1.0,Model 4,RandomForest
+42,ROC-AUC,0.74,Model 1,XGBoost
+43,Accuracy,0.89,Model 1,XGBoost
+44,Precision,0.94,Model 1,XGBoost
+45,Recall,0.94,Model 1,XGBoost
+46,F1 Score,0.94,Model 1,XGBoost
+48,ROC-AUC,0.77,Model 2,XGBoost
+49,Accuracy,0.93,Model 2,XGBoost
+50,Precision,0.94,Model 2,XGBoost
+51,Recall,0.99,Model 2,XGBoost
+52,F1 Score,0.96,Model 2,XGBoost
+54,Accuracy,0.87,Model 3,XGBoost
+55,ROC-AUC,0.75,Model 3,XGBoost
+56,F1 Score,0.93,Model 3,XGBoost
+57,Precision,0.95,Model 3,XGBoost
+58,Recall,0.9,Model 3,XGBoost
+59,ROC-AUC,0.77,Model 4,XGBoost
+60,Accuracy,0.93,Model 4,XGBoost
+61,Precision,0.94,Model 4,XGBoost
+62,Recall,0.99,Model 4,XGBoost
+63,F1 Score,0.96,Model 4,XGBoost
